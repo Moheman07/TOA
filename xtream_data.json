@@ -1,162 +1,22 @@
 {
   "metadata": {
-    "generated_at": "2025-05-24T00:33:10.755Z",
-    "total_channels": 30,
+    "generated_at": "2025-05-24T00:39:16.941Z",
+    "total_channels": 2,
     "id_range": {
-      "start": 1429721,
-      "end": 1429750
+      "start": 394574,
+      "end": 394575
     }
   },
   "channels": [
     {
-      "name": "TOD: TOD 1429721",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzIxLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429721.ts"
+      "name": "TOD: TOD 394574",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8zOTQ1NzQudHM=#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/394574.ts"
     },
     {
-      "name": "TOD: TOD 1429722",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzIyLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429722.ts"
-    },
-    {
-      "name": "TOD: TOD 1429723",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzIzLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429723.ts"
-    },
-    {
-      "name": "TOD: TOD 1429724",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzI0LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429724.ts"
-    },
-    {
-      "name": "TOD: TOD 1429725",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzI1LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429725.ts"
-    },
-    {
-      "name": "TOD: TOD 1429726",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzI2LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429726.ts"
-    },
-    {
-      "name": "TOD: TOD 1429727",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzI3LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429727.ts"
-    },
-    {
-      "name": "TOD: TOD 1429728",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzI4LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429728.ts"
-    },
-    {
-      "name": "TOD: TOD 1429729",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzI5LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429729.ts"
-    },
-    {
-      "name": "TOD: TOD 1429730",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzMwLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429730.ts"
-    },
-    {
-      "name": "TOD: TOD 1429731",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzMxLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429731.ts"
-    },
-    {
-      "name": "TOD: TOD 1429732",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzMyLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429732.ts"
-    },
-    {
-      "name": "TOD: TOD 1429733",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzMzLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429733.ts"
-    },
-    {
-      "name": "TOD: TOD 1429734",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzM0LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429734.ts"
-    },
-    {
-      "name": "TOD: TOD 1429735",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzM1LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429735.ts"
-    },
-    {
-      "name": "TOD: TOD 1429736",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzM2LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429736.ts"
-    },
-    {
-      "name": "TOD: TOD 1429737",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzM3LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429737.ts"
-    },
-    {
-      "name": "TOD: TOD 1429738",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzM4LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429738.ts"
-    },
-    {
-      "name": "TOD: TOD 1429739",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzM5LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429739.ts"
-    },
-    {
-      "name": "TOD: TOD 1429740",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQwLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429740.ts"
-    },
-    {
-      "name": "TOD: TOD 1429741",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQxLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429741.ts"
-    },
-    {
-      "name": "TOD: TOD 1429742",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQyLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429742.ts"
-    },
-    {
-      "name": "TOD: TOD 1429743",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQzLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429743.ts"
-    },
-    {
-      "name": "TOD: TOD 1429744",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQ0LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429744.ts"
-    },
-    {
-      "name": "TOD: TOD 1429745",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQ1LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429745.ts"
-    },
-    {
-      "name": "TOD: TOD 1429746",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQ2LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429746.ts"
-    },
-    {
-      "name": "TOD: TOD 1429747",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQ3LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429747.ts"
-    },
-    {
-      "name": "TOD: TOD 1429748",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQ4LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429748.ts"
-    },
-    {
-      "name": "TOD: TOD 1429749",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzQ5LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429749.ts"
-    },
-    {
-      "name": "TOD: TOD 1429750",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8xNDI5NzUwLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/1429750.ts"
+      "name": "TOD: TOD 394575",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWUvbGl2ZS82M2Q5MGFlYWNkZDQvZTc4MjY5YzNlOS8zOTQ1NzUudHM=#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me/live/63d90aeacdd4/e78269c3e9/394575.ts"
     }
   ]
 }
