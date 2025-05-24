@@ -1,162 +1,57 @@
 {
   "metadata": {
-    "generated_at": "2025-05-24T06:39:24.338Z",
-    "total_channels": 30,
+    "generated_at": "2025-05-24T07:07:54.193Z",
+    "total_channels": 9,
     "id_range": {
-      "start": 1429721,
-      "end": 1429750
+      "start": 1429741,
+      "end": 1429749
     }
   },
   "channels": [
     {
-      "name": "TOD: TOD 1429721",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzIxLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429721.ts"
+      "name": "TOD: BEIN 9 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429741"
     },
     {
-      "name": "TOD: TOD 1429722",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzIyLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429722.ts"
+      "name": "TOD: BEIN 8 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429742"
     },
     {
-      "name": "TOD: TOD 1429723",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzIzLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429723.ts"
+      "name": "TOD: BEIN 7 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429743"
     },
     {
-      "name": "TOD: TOD 1429724",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzI0LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429724.ts"
+      "name": "TOD: BEIN 6 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429744"
     },
     {
-      "name": "TOD: TOD 1429725",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzI1LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429725.ts"
+      "name": "TOD: BEIN 5 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429745"
     },
     {
-      "name": "TOD: TOD 1429726",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzI2LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429726.ts"
+      "name": "TOD: BEIN 4 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429746"
     },
     {
-      "name": "TOD: TOD 1429727",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzI3LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429727.ts"
+      "name": "TOD: BEIN 3 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429747"
     },
     {
-      "name": "TOD: TOD 1429728",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzI4LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429728.ts"
+      "name": "TOD: BEIN 2 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429748"
     },
     {
-      "name": "TOD: TOD 1429729",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzI5LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429729.ts"
-    },
-    {
-      "name": "TOD: TOD 1429730",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzMwLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429730.ts"
-    },
-    {
-      "name": "TOD: TOD 1429731",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzMxLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429731.ts"
-    },
-    {
-      "name": "TOD: TOD 1429732",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzMyLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429732.ts"
-    },
-    {
-      "name": "TOD: TOD 1429733",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzMzLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429733.ts"
-    },
-    {
-      "name": "TOD: TOD 1429734",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzM0LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429734.ts"
-    },
-    {
-      "name": "TOD: TOD 1429735",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzM1LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429735.ts"
-    },
-    {
-      "name": "TOD: TOD 1429736",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzM2LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429736.ts"
-    },
-    {
-      "name": "TOD: TOD 1429737",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzM3LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429737.ts"
-    },
-    {
-      "name": "TOD: TOD 1429738",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzM4LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429738.ts"
-    },
-    {
-      "name": "TOD: TOD 1429739",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzM5LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429739.ts"
-    },
-    {
-      "name": "TOD: TOD 1429740",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQwLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429740.ts"
-    },
-    {
-      "name": "TOD: TOD 1429741",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQxLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429741.ts"
-    },
-    {
-      "name": "TOD: TOD 1429742",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQyLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429742.ts"
-    },
-    {
-      "name": "TOD: TOD 1429743",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQzLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429743.ts"
-    },
-    {
-      "name": "TOD: TOD 1429744",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQ0LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429744.ts"
-    },
-    {
-      "name": "TOD: TOD 1429745",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQ1LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429745.ts"
-    },
-    {
-      "name": "TOD: TOD 1429746",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQ2LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429746.ts"
-    },
-    {
-      "name": "TOD: TOD 1429747",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQ3LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429747.ts"
-    },
-    {
-      "name": "TOD: TOD 1429748",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQ4LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429748.ts"
-    },
-    {
-      "name": "TOD: TOD 1429749",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzQ5LnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429749.ts"
-    },
-    {
-      "name": "TOD: TOD 1429750",
-      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXAvbGl2ZS9kNDIyNWU0NjllMWIvOTk5MWQyYTA4NC8xNDI5NzUwLnRz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://ksa.protection-cdn.vip/live/d4225e469e1b/9991d2a084/1429750.ts"
+      "name": "TOD: BEIN 1 ᴿᴬᵂ",
+      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429749"
     }
   ]
 }
