@@ -1,57 +1,62 @@
 {
   "metadata": {
-    "generated_at": "2025-05-25T13:28:38.236Z",
-    "total_channels": 9,
+    "generated_at": "2025-06-11T17:35:51.072Z",
+    "total_channels": 10,
     "id_range": {
-      "start": 1429741,
-      "end": 1429749
+      "start": 1036838,
+      "end": 1036847
     }
   },
   "channels": [
     {
-      "name": "TOD: BEIN 1 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0OQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429749"
+      "name": "AR: TOD PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODM4#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036838"
     },
     {
-      "name": "TOD: BEIN 2 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0OA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429748"
+      "name": "AR: TOD PPV 9 - SLOVAKIA VS SPAIN - FRENCH | Wed 11 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODM5#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036839"
     },
     {
-      "name": "TOD: BEIN 3 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429747"
+      "name": "AR: TOD PPV 8 - SLOVAKIA VS SPAIN - ENGLISH | Wed 11 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODQw#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036840"
     },
     {
-      "name": "TOD: BEIN 4 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429746"
+      "name": "AR: TOD PPV 7 - SLOVAKIA VS SPAIN - ARABIC | Wed 11 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODQx#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036841"
     },
     {
-      "name": "TOD: BEIN 5 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429745"
+      "name": "AR: TOD PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODQy#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036842"
     },
     {
-      "name": "TOD: BEIN 6 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429744"
+      "name": "AR: TOD PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODQz#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036843"
     },
     {
-      "name": "TOD: BEIN 7 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429743"
+      "name": "AR: TOD PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODQ0#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036844"
     },
     {
-      "name": "TOD: BEIN 8 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429742"
+      "name": "AR: TOD PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODQ1#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036845"
     },
     {
-      "name": "TOD: BEIN 9 ᴿᴬᵂ",
-      "intentUrl": "intent://aHR0cDovL2V4Y3VzZTI1NTMzLmNkbmdvbGQubWU6ODAvNjNkOTBhZWFjZGQ0L2U3ODI2OWMzZTkvMTQyOTc0MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://excuse25533.cdngold.me:80/63d90aeacdd4/e78269c3e9/1429741"
+      "name": "AR: TOD PPV 2 - JAN-LENNARD STRUFF VS JIRI LEHECKA - ENGLISH | Wed 11 Jun 16:47 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODQ2#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036846"
+    },
+    {
+      "name": "AR: TOD PPV 1 - TEODORO ZAPATA & JOSE JIMENEZ CASAS VS MIGUEL YANGUAS & JORGE NIETO RUIZ - ENGLISH | Wed 11 Jun 17:05 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC83MzVkODczYWMyZjkvYTc4M2Q3ZWM5OS8xMDM2ODQ3#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://hi-ott.me:80/735d873ac2f9/a783d7ec99/1036847"
     }
   ]
 }
