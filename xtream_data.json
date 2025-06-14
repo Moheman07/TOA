@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-06-13T11:22:20.626Z",
+    "generated_at": "2025-06-14T13:27:03.766Z",
     "total_channels": 10,
     "id_range": {
       "start": 1036838,
@@ -10,53 +10,53 @@
   "channels": [
     {
       "name": "AR: TOD PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODM4#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036838"
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjgzOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036838"
     },
     {
       "name": "AR: TOD PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODM5#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036839"
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjgzOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036839"
     },
     {
       "name": "AR: TOD PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODQw#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036840"
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjg0MA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036840"
     },
     {
       "name": "AR: TOD PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODQx#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036841"
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjg0MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036841"
     },
     {
       "name": "AR: TOD PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODQy#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036842"
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjg0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036842"
     },
     {
-      "name": "AR: TOD PPV 5 - INIGO JOFRE & ALEJANDRO ARROYO VS FEDERICO CHINGOTTO & ALEJANDRO GALAN - ARABIC | Fri 13 Jun 10:45 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODQz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036843"
+      "name": "AR: TOD PPV 5 - F1 ACADEMY - MONTREAL ROUND - RACE 1 - ARABIC | Sat 14 Jun 14:50 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjg0Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036843"
     },
     {
-      "name": "AR: TOD PPV 4 - MARTON FUCSOVICS VS TAYLOR FRITZ - ENGLISH | Fri 13 Jun 12:35 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODQ0#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036844"
+      "name": "AR: TOD PPV 4 - GABRIEL DIALLO VS UGO HUMBERT - ENGLISH | Sat 14 Jun 14:05 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjg0NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036844"
     },
     {
-      "name": "AR: TOD PPV 3 - GABRIEL DIALLO VS KAREN KHACHANOV - ENGLISH | Fri 13 Jun 12:05 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODQ1#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036845"
+      "name": "AR: TOD PPV 3 - PIRELLI EMILIA-ROMAGNA ROUND - RACE 1 - ARABIC | Sat 14 Jun 13:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjg0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036845"
     },
     {
-      "name": "AR: TOD PPV 2 - JUSTIN ENGEL VS FELIX AUGER-ALIASSIME - ENGLISH | Fri 13 Jun 10:35 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODQ2#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036846"
+      "name": "AR: TOD PPV 2 - F1 ACADEMY - MONTREAL ROUND - RACE 1 - ENGLISH | Sat 14 Jun 14:50 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjg0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036846"
     },
     {
-      "name": "AR: TOD PPV 1 - INIGO JOFRE & ALEJANDRO ARROYO  VS FEDERICO CHINGOTTO & ALEJANDRO GALAN - ARABIC | Fri 13 Jun 10:05 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC9hYTRkNWViZWQxOGMvMzI4NzQ3M2I0MC8xMDM2ODQ3#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/aa4d5ebed18c/3287473b40/1036847"
+      "name": "AR: TOD PPV 1 - ALEXANDER ZVEREV VS BEN SHELTON - ENGLISH | Sat 14 Jun 13:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2tzYS5wcm90ZWN0aW9uLWNkbi52aXA6ODAvYTI1MzIzOGVmMTI1LzAyMmI1YzJjZTAvMTAzNjg0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://ksa.protection-cdn.vip:80/a253238ef125/022b5c2ce0/1036847"
     }
   ]
 }
