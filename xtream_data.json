@@ -1,13 +1,33 @@
 {
   "metadata": {
-    "generated_at": "2025-06-18T17:41:10.119Z",
-    "total_channels": 10,
+    "generated_at": "2025-06-18T17:49:26.352Z",
+    "total_channels": 14,
     "id_range": {
-      "start": 1036838,
+      "start": 1036833,
       "end": 1036847
     }
   },
   "channels": [
+    {
+      "name": "AR: TOD PPV 14 - DENMARK VS FINLAND  - ARABIC | Wed 18 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036833"
+    },
+    {
+      "name": "AR: TOD PPV 13 - DENMARK VS FINLAND  - FRENCH | Wed 18 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036835"
+    },
+    {
+      "name": "AR: TOD PPV 12 - NETHERLANDS VS UKRAINE - ARABIC | Wed 18 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036836"
+    },
+    {
+      "name": "AR: TOD PPV 11 - NETHERLANDS VS UKRAINE - ENGLISH | Wed 18 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzNw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036837"
+    },
     {
       "name": "AR: TOD PPV 10 - NETHERLANDS VS UKRAINE - FRENCH | Wed 18 Jun 17:35 | 8K EXCLUSIVE",
       "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
