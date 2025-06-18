@@ -1,6 +1,6 @@
 {
   "metadata": {
-    "generated_at": "2025-06-16T15:59:03.255Z",
+    "generated_at": "2025-06-18T17:41:10.119Z",
     "total_channels": 10,
     "id_range": {
       "start": 1036838,
@@ -9,54 +9,54 @@
   },
   "channels": [
     {
-      "name": "AR: TOD PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODM4#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036838"
+      "name": "AR: TOD PPV 10 - NETHERLANDS VS UKRAINE - FRENCH | Wed 18 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036838"
     },
     {
-      "name": "AR: TOD PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODM5#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036839"
+      "name": "AR: TOD PPV 9 - POLAND VS FRANCE - ARABIC | Wed 18 Jun 17:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036839"
     },
     {
-      "name": "AR: TOD PPV 8 - DENMARK VS MONTENEGRO  - ARABIC | Mon 16 Jun 16:35 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODQw#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036840"
+      "name": "AR: TOD PPV 8 - SLOVENIA VS LITHUANIA - ARABIC | Wed 18 Jun 17:05 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0MA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036840"
     },
     {
-      "name": "AR: TOD PPV 7 - DENMARK VS MONTENEGRO  - ENGLISH | Mon 16 Jun 16:35 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODQx#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036841"
+      "name": "AR: TOD PPV 7 - NETHERLANDS VS SPAIN  - ARABIC | Wed 18 Jun 16:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036841"
     },
     {
-      "name": "AR: TOD PPV 6 - CAMERON NORRIE VS JAKUB MENSIK - ENGLISH | Mon 16 Jun 15:35 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODQy#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036842"
+      "name": "AR: TOD PPV 6 - PORTUGAL VS ENGLAND  - ARABIC | Wed 18 Jun 16:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036842"
     },
     {
       "name": "AR: TOD PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODQz#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036843"
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036843"
     },
     {
       "name": "AR: TOD PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODQ0#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036844"
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036844"
     },
     {
-      "name": "AR: TOD PPV 3 - STEFANOS TSITSIPAS VS LUCIANO DARDERI - ENGLISH | Mon 16 Jun 15:35 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODQ1#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036845"
+      "name": "AR: TOD PPV 3 - ALEX MICHELSEN VS STEFANOS TSITSIPAS - ENGLISH | Wed 18 Jun 16:15 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036845"
     },
     {
-      "name": "AR: TOD PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODQ2#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036846"
+      "name": "AR: TOD PPV 2 - SWEDEN VS ITALY  - ARABIC | Wed 18 Jun 18:35 | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036846"
     },
     {
-      "name": "AR: TOD PPV 1 - JACOB FEARNLEY VS ALEX BOLT - ENGLISH | Mon 16 Jun 17:05 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hpLW90dC5tZTo4MC85YWUyOGUwZWJlNmMvNzA1OWI3YjJhZi8xMDM2ODQ3#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://hi-ott.me:80/9ae28e0ebe6c/7059b7b2af/1036847"
+      "name": "AR: TOD PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036847"
     }
   ]
 }
