@@ -1,82 +1,62 @@
 {
   "metadata": {
-    "generated_at": "2025-06-19T11:36:35.746Z",
-    "total_channels": 14,
+    "generated_at": "2025-06-30T11:56:19.540Z",
+    "total_channels": 10,
     "id_range": {
-      "start": 1036833,
+      "start": 1036838,
       "end": 1036847
     }
   },
   "channels": [
     {
-      "name": "AR: TOD PPV 14 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzMw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036833"
-    },
-    {
-      "name": "AR: TOD PPV 13 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzNQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036835"
-    },
-    {
-      "name": "AR: TOD PPV 12 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzNg==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036836"
-    },
-    {
-      "name": "AR: TOD PPV 11 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzNw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036837"
-    },
-    {
       "name": "AR: TOD PPV 10 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036838"
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjgzOA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036838"
     },
     {
       "name": "AR: TOD PPV 9 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjgzOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036839"
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjgzOQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036839"
     },
     {
       "name": "AR: TOD PPV 8 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0MA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036840"
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjg0MA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036840"
     },
     {
       "name": "AR: TOD PPV 7 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036841"
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjg0MQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036841"
     },
     {
       "name": "AR: TOD PPV 6 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036842"
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjg0Mg==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036842"
     },
     {
       "name": "AR: TOD PPV 5 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036843"
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjg0Mw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036843"
     },
     {
       "name": "AR: TOD PPV 4 - NO EVENT STREAMING - | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036844"
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjg0NA==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036844"
     },
     {
-      "name": "AR: TOD PPV 3 - FELIX AUGER-ALIASSIME VS KAREN KHACHANOV - ENGLISH | Thu 19 Jun 11:17 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036845"
+      "name": "AR: TOD PPV 3 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjg0NQ==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036845"
     },
     {
-      "name": "AR: TOD PPV 2 - JIRI LEHECKA VS GABRIEL DIALLO - ENGLISH | Thu 19 Jun 12:35 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036846"
+      "name": "AR: TOD PPV 2 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjg0Ng==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036846"
     },
     {
-      "name": "AR: TOD PPV 1 - ANDREY RUBLEV VS TOMAS MARTIN ETCHEVERRY - ENGLISH | Thu 19 Jun 12:35 | 8K EXCLUSIVE",
-      "intentUrl": "intent://aHR0cDovL2hhZDkzODQ0LmNkbmdvbGQubWU6ODAvZDMzMDhhNGQyOTUxLzhkM2FmYjQ4YWQvMTAzNjg0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
-      "originalUrl": "http://had93844.cdngold.me:80/d3308a4d2951/8d3afb48ad/1036847"
+      "name": "AR: TOD PPV 1 - NO EVENT STREAMING - | 8K EXCLUSIVE",
+      "intentUrl": "intent://aHR0cDovL2Nhc2V5Njk5ODAuY2RuZ29sZC5tZTo4MC80MzY0YTg5NDQ0LzQ1ZDJlYTEyNGUvMTAzNjg0Nw==#Intent;scheme=xmtv;package=com.xpola.player;end",
+      "originalUrl": "http://casey69980.cdngold.me:80/4364a89444/45d2ea124e/1036847"
     }
   ]
 }
